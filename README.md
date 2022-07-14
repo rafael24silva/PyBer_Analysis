@@ -7,7 +7,7 @@ The purpose of this analysis is to summarize the PyBer data by city type, then c
 
 Based on the photo above, we can clearly see that the majority of rides being done is in the urban areas. The total rides, drivers, and fares are mostly from the urban areas. Because of this, their average fare per ride and driver is smaller than the others. The lower the number of rides and drivers, the higher the averages will be. It is to be expected that urban and suburban areas will have more rides and drivers because of the high population in these areas.
 
-![Fig8](https://user-images.githubusercontent.com/106933029/179100802-fc341855-4539-476f-854f-a6987685853f.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/106933029/179119775-a7c01524-9526-40a6-b9d7-13d5bbd0e3d4.png)
 
 The photo above also demonstrates what was expected from seeing the summary table. As we can see, the more populated the area, the higher the weekly fare totals will be. We can also see how fare totals peak around the end of February and the beginning of March, with the exception of rural areas where we see a peak in April. Apart from this, we see that through the course of these five months there are many fluctuations.
 
